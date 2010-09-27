@@ -1,0 +1,3 @@
+#include "resource.h"
+IDI_ICON	ICON		"PowerIcon.ico"
+IDI_BANNER BITMAP "Banner.bmp"

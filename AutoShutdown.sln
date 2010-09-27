@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoShutdown", "AutoShutdown\AutoShutdown.vcproj", "{D9DFAADE-9700-4278-83FB-A2F603A8712D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9DFAADE-9700-4278-83FB-A2F603A8712D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9DFAADE-9700-4278-83FB-A2F603A8712D}.Debug|Win32.Build.0 = Debug|Win32
+		{D9DFAADE-9700-4278-83FB-A2F603A8712D}.Release|Win32.ActiveCfg = Release|Win32
+		{D9DFAADE-9700-4278-83FB-A2F603A8712D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
